@@ -1,0 +1,2 @@
+module QuinielaCascaronHelper
+end

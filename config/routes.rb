@@ -1,4 +1,6 @@
 Quiniela::Application.routes.draw do
+  get "quiniela_cascaron/home"
+  get "quiniela_cascaron/v2p0"
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
